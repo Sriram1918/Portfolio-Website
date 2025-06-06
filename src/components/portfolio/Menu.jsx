@@ -17,7 +17,7 @@ const Menu = [
     image: Work2,
     title: "Cryptoverse",
     category: ["Frontend", "React"],
-    url: "https://cryptoverse.gregsithole.com",
+    url: "",
     repositoryUrl: "https://github.com/Sriram1918/Crpto-App",
   },
   {
@@ -25,7 +25,7 @@ const Menu = [
     image: Work3,
     title: "Travel Advisor",
     category: ["Frontend"],
-    url: "https://travel.gregsithole.com",
+    url: "",
     repositoryUrl: "https://github.com/Sriram1918/Travel-Advisor-",
   },
 ];
